@@ -1,0 +1,7 @@
+Pour jouer:
+(lancer le programme dans le fichier "wallisyou.py")
+
+1 - Sélectionner une map
+2 - Cliquer sur les cases pour les faire pivoter afin de vous frayer un chemin
+3 - Clic droit pour afficher le chemin
+4 - Espace pour parcourir le chemin affiché

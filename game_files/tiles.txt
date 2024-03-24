@@ -1,0 +1,11 @@
+droits  : ═ ║
+angles  : ╔ ╗ ╚ ╝
+triples : ╠ ╣ ╦ ╩
+bouts   : ╨ ╡ ╥ ╞
+quatre  : ╬
+
+exemple :
+╔╦══╗
+╠╬╡╔╝
+║║╞╩╗
+╚╩══╝
